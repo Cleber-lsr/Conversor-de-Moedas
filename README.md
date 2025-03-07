@@ -1,5 +1,5 @@
 # Conversor De Moedas
-Meu primeiro projeto que consiste em um site que criptografa mensagens
+Programa que foi criado para o curso da Alura onde seu objetivo é fazer a conversão de moedas
 
 ## 🚀 Tecnologias 
 - Java
